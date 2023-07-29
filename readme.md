@@ -3,3 +3,5 @@
 
 >  Processo deve ser executado por um certificado A1, de preferencia de contador para filtramos as inscrições municipais vinculadas e baixar os 3 tipos de arquivos (NFTS, NFS e NFS_e).
 > Arquivos da categoria NFS, realizamos o download tanto do CSV quando do TXT
+> Vou tentar subir essa informação
+
