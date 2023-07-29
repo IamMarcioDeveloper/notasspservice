@@ -34,5 +34,3 @@ def consulta(ccm):
     RodarQuery.execute(dSQLEmpresa)  # execute serve para rodar a query
     dEmp = RodarQuery.fetchall()  # Fetchall serve para verificar os valores retornados
     return dEmp[0][0]
-print('Teste de versionamento 29/07/2023')
-print("Vou  colocar mais um print pra teste")
